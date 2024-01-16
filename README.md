@@ -1,31 +1,49 @@
-Chrome Extension: Telegram Web Popup
+
+# Chrome Extension: Telegram Web Popup
+
 Welcome to the README page of your Chrome extension that makes Telegram Web accessible through a handy popup!
 
-Description
+
+## Description
+
 The Chrome extension "Telegram Web Popup" allows you to quickly access Telegram Web through a convenient popup. With this extension, you can enjoy the convenience of Telegram directly from the toolbar of your browser without having to open a new tab.
 
-Main Features
-Convenient Popup: Access Telegram Web with a single click directly from the browser toolbar.
-Efficiency: Save time without having to open a new tab to access Telegram Web.
-Simple Setup: Install the extension with ease and start using it immediately.
-Installation
-Go to the Chrome Web Store.
-Search for "Telegram Web Popup" in the search bar.
-Click "Add to Chrome" to install the extension.
-Once installed, you will see a Telegram icon in the toolbar.
-Utilization
-Click on the Telegram icon in the toolbar.
-The Telegram Web popup will open immediately.
-Sign in with your Telegram account and start chatting!
-Feedback
-We are eager to receive your feedback! If you encounter problems, have suggestions or want to contribute to the development, visit our github [repository link] page and open a new issue.
 
-Contributions
+## Features
+
+- __Convenient Popup__: Access Telegram Web with a single click directly from the browser toolbar.
+- __Efficiency__: Save time without having to open a new tab to access Telegram Web.
+- __Simple Setup__: Install the extension with ease and start using it immediately.
+
+
+
+## Installation
+
+- Download the folder "Telegram_popup_extension" 
+- Open your browser -> settings -> extensions
+- Load  unpackaged extension
+- Select folder 
+- Done!
+
+
+    
+## Usage
+
+- Click on the Telegram icon in the toolbar.
+- The Telegram Web popup will open immediately.
+- Sign in with your Telegram account and start chatting!
+
+
+## Feedback
+
+We are eager to receive your feedback! If you encounter problems, have suggestions or want to contribute to the development, visit our github https://github.com/Magut00/Telegram-Web-Popup-Chrome-Extension page and open a new issue.
+
+
+## Contributing
+
 If you want to help develop this extension, follow the fork procedure and open a pull request. We are open to new ideas and improvements!
+## Known Issues
 
-Problemi Conosciuti
-We currently do not support access to multiple Telegram Web windows through the popup.
-Thanks
-Thank you for choosing "Telegram Web Popup"! We hope you can enjoy a more convenient and faster experience with Telegram Web through this extension.
+- We currently do not support access to multiple Web Telegram windows through the popup.
 
-Happy chatting! 🚀✉️
+- To make this extension work I created a script that bypasses the X-Frame-Options setting them to "none" this is not the best for your security, use this extension at your own risk!
