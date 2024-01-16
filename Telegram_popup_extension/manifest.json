@@ -1,14 +1,14 @@
 {
     "manifest_version": 3,
-    "name": "Telegram Portable",
-    "description": "Telegram web on a extension",
+    "name": "Telegram popup Chrome Extension",
+    "description": "Telegram web popup on a extension",
     "version": "0.0.1",
-    "author": "Matteo Geusa",
+    "author": "Matteo Geusa Dev",
     "icons": {
         "128": "icon.png"
     },
     "action": {
-        "default_title": "Telegram Portable",
+        "default_title": "Telegram popup Chrome Extension",
         "default_popup": "popup.html"
     },
     "declarative_net_request": {
