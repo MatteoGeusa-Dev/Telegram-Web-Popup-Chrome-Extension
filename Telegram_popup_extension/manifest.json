@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Telegram Popup",
     "description": "A popup for chatting in telegram on a extension.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "author": "Matteo Geusa Dev",
     "icons": {
         "128": "icon.png"
