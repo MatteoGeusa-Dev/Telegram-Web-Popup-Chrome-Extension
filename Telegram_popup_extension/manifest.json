@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Telegram popup Chrome Extension",
-    "description": "Telegram web popup on a extension",
+    "name": "Telegram Popup - by Matteo Geusa Dev",
+    "description": "A popup for chatting in telegram on a extension.",
     "version": "0.0.1",
     "author": "Matteo Geusa Dev",
     "icons": {
