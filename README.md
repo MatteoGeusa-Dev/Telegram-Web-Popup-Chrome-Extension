@@ -22,7 +22,8 @@ The Chrome extension "Telegram Web Popup" allows you to quickly access Telegram 
 
 ## Installation
 
-- Download the folder "Telegram_popup_extension" 
+- Download the current folder.zip
+- Extract only the folder named "Telegram_popup_extension" 
 - Open your browser -> settings -> extensions
 - Load  unpackaged extension
 - Select folder 
