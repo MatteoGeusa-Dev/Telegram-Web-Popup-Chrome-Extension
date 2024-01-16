@@ -4,7 +4,7 @@
 Welcome to the README page of your Chrome extension that makes Telegram Web accessible through a handy popup!
 
 
-## ❌IMPORTANT❌
+## ❌ IMPORTANT ❌
 
 To make this extension work I created a script that bypasses the X-Frame-Options setting them to "none" this is not the best for your security, use this extension at your own risk!
 ## Description
