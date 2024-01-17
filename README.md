@@ -40,7 +40,7 @@ The Chrome extension "Telegram Web Popup" allows you to quickly access Telegram 
 
 ## Feedback
 
-We are eager to receive your feedback! If you encounter problems, have suggestions or want to contribute to the development, visit our github https://github.com/Magut00/Telegram-Web-Popup-Chrome-Extension page and open a new issue.
+We are eager to receive your feedback! If you encounter problems, have suggestions or want to contribute to the development, visit our github https://github.com/MatteoGeusa-Dev/Telegram-Web-Popup-Chrome-Extension page and open a new issue.
 
 
 ## Contributing
